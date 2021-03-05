@@ -1,2 +1,2 @@
 coba mirror (push)
-coba mirror (pukk)
+coba mirror (pull)
